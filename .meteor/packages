@@ -13,7 +13,6 @@ accounts-ui
 nemo64:bootstrap
 less
 meteorhacks:npm
-
-
-
 npm-container
+base64
+jparker:crypto-base64
