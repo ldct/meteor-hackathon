@@ -1,0 +1,106 @@
+Delivered-To: narendasan@gmail.com
+Received: by 10.107.166.4 with SMTP id p4csp183365ioe;
+        Thu, 6 Aug 2015 23:30:23 -0700 (PDT)
+X-Received: by 10.194.192.166 with SMTP id hh6mr10956838wjc.127.1438929022474;
+        Thu, 06 Aug 2015 23:30:22 -0700 (PDT)
+Return-Path: <bounces+848413-e855-narendasan=gmail.com@sgmail.github.com>
+Received: from o4.sgmail.github.com (o4.sgmail.github.com. [192.254.112.99])
+        by mx.google.com with ESMTPS id lb9si17751118wjc.194.2015.08.06.23.30.21
+        for <narendasan@gmail.com>
+        (version=TLSv1.2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Thu, 06 Aug 2015 23:30:22 -0700 (PDT)
+Received-SPF: pass (google.com: best guess record for domain of bounces+848413-e855-narendasan=gmail.com@sgmail.github.com designates 192.254.112.99 as permitted sender) client-ip=192.254.112.99;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: best guess record for domain of bounces+848413-e855-narendasan=gmail.com@sgmail.github.com designates 192.254.112.99 as permitted sender) smtp.mail=bounces+848413-e855-narendasan=gmail.com@sgmail.github.com;
+       dkim=pass header.i=@github.com;
+       dkim=pass header.i=@sendgrid.info;
+       dmarc=pass (p=NONE dis=NONE) header.from=github.com
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed; d=github.com;
+	h=from:to:subject:mime-version:content-type; s=s20150108;
+	bh=eQKncVwjBjCh4A72TIgebr3eCz4=; b=deZfHQmbQrQ7/WenRYCuwSi+W6hz1
+	/GauZmxWASWOJMdO/qw4BdOkXDllC+wXa8Tv1AoaY3IItwXfpsPipNeSkIv1Df4z
+	ElG5t4WdjO8TummP/0dsZ+RJFzx1DBT/UTS4x9r9MA+d8YjKILgDFYtP3f0mMHMr
+	MH+aRnCJXdGTB8=
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed; d=sendgrid.info;
+	h=from:to:subject:mime-version:content-type:x-feedback-id;
+	s=smtpapi; bh=eQKncVwjBjCh4A72TIgebr3eCz4=; b=F/0w8vsI1De8GLFbp6
+	G2TyJqNeR+IMXSf5jUN2hq1pyQClxBL3wKkYCJF1y1P5qSFPJWuW510Jmq0Bjeyl
+	LdJBdz9NlX/KzDic83OZsY4qlkN1Yljy+y64pD51ApCIpraJov2d4wp+6Ig1b75G
+	mkP1MDoezSiVYCkRGtfzny+us=
+Received: by filter0817p1mdw1.sendgrid.net with SMTP id filter0817p1mdw1.3156.55C4507AF
+        2015-08-07 06:30:18.366676116 +0000 UTC
+Received: from github-smtp2b-ext-cp1-prd.iad.github.net (github-smtp2b-ext-cp1-prd.iad.github.net [192.30.253.17])
+	by ismtpd0002p1iad1.sendgrid.net (SG) with ESMTP id Q81AascBQEiukuoZkAMr_w
+	for <narendasan@gmail.com>; Fri, 07 Aug 2015 06:30:18 +0000 (UTC)
+Date: Thu, 06 Aug 2015 23:30:18 -0700
+From: CS 196 at Illinois <noreply@github.com>
+To: Naren Dasan <narendasan@gmail.com>
+Message-ID: <55c4507a7e5e_281b3f8f9dfb72c042227@github-fe130-cp1-prd.iad.github.net.mail>
+Subject: modi95 added you to the owners team for CS196Illinois
+Mime-Version: 1.0
+X-Auto-Response-Suppress: All
+tracking: true
+categories: org,org-team-add-member
+Content-type: multipart/alternative; boundary="----------=_1438929018-1599-7"
+X-SG-EID: btNwNeFjV2I90qmCYGRrj5C96m2OSCuPB4M7KOtYO9Lh2evE34XVITtzS6BPZK4wn/qlHK0JhjklA3
+ gfXgPr1sMhZc+KkoVkoLnmezv9Vz5WuzcUmmnQP5oFPbrZOTdBDiExUUNBSG8DJ4KgVKSw9glkvG3G
+ Oc4pjMakUxOrkSQ=
+X-SG-ID: aU8EibCq9bfvTCW/8CO1qNKgtQYSHYo0LPl/ty2/2W+WsVthujvdR4rEqNaBCjNz
+X-Feedback-ID: 848413:6xvVEJqleZlAW7/vhv7PzD/cv5tamo2SWZDKyvugGvg=:GtOMfT6B4veAcOlUyYtAfQ==:SG
+
+This is a multi-part message in MIME format...
+
+------------=_1438929018-1599-7
+Content-Type: text/plain;
+ charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+You=E2=80=99ve been added to the owners team for the CS 196 at Illinois org=
+anization. Owners have full access to all repositories and admin rights to =
+the organization.
+
+View Owners: https://github.com/orgs/CS196Illinois/teams/owners
+
+Read more about team permissions here: https://help.github.com/articles/wha=
+t-are-the-different-access-permissions
+
+------------=_1438929018-1599-7
+Content-Type: text/html; charset="UTF-8"
+Content-Disposition: inline
+Content-Transfer-Encoding: quoted-printable
+
+<html><body>
+<p>You=E2=80=99ve been added to the owners team for the CS 196 at Illinois =
+organization. Owners have full access to all repositories and admin rights =
+to the organization.</p>
+<p>View Owners: <a href=3D"http://sgmail.githubmail.com/wf/click?upn=3DlYxq=
+-2FYU7yocrdKNILYalBj1aEPjEA96UgRy3S-2B7mvNPg5iUEgNa7LjuTS54qNfDBpxECNpVRYe7=
+8TW-2FWJVfoNQ-3D-3D_4117mrjs1wNnNAJO2zrgMNf-2BezB05yJcfitmYjds6HwPLsHKi0QBN=
+Zw-2FIlP19rU2ezg5a0m5Fx8Tetl0sk4NR2x9-2F-2F-2FUKBymugnrHY2OVHkKpxW2g9L-2FYk=
+F5DlT-2FQP-2BA2MoNIXEqyAbJ6Hue9jF5sBiWYhHCga34XUVOOn6YmdcwyLA0-2BpXTHH7Iaew=
+-2FmvX-2Bqf0DTbNXbN4H7S7wszt5AWAsRGlG-2Fh9iiu9RkQeEBHMd7aIqFYYGfpl16W4RJ4zr=
+MWT39bO2fcy1viNYi4-2FXpQ-3D-3D">https://github.com/orgs/CS196Illinois/teams=
+/owners</a></p>
+<p>Read more about team permissions here: <a href=3D"http://sgmail.githubma=
+il.com/wf/click?upn=3DH-2FQ3yMxnv4jw-2BxNnSBX80-2FAtA3t7vDbetmbWolVUHkKnECw=
+CpEvOzzuUPQYp7N5nJUUw2cmfrHRG97c2sliHmk6ikazvvoK4oP-2BoW9tDRWwnJvhbeHJETAFS=
+AZQKFqKT_4117mrjs1wNnNAJO2zrgMNf-2BezB05yJcfitmYjds6HwPLsHKi0QBNZw-2FIlP19r=
+U2w5nG3Q9jFTG5GkQ7Fwy2Jn7783AYMJFvEetYm1r9Uw1BeUpqubh-2FsTWkxix-2BOvx5HSx4X=
+eC0ayM1a5mqtJrCkiukM4LgGr0I1q8Do8Vy8JRKfmgdpd7onBRFyN1oH8U6Cd2j150-2BbP4v85=
+fQ2pkqLqoQJmixcgiGXzOO7FKhxxHlp4AJyWB9wSRmAqis13kUKj-2Fn5052RZZw-2FokGaP8wz=
+w-3D-3D">https://help.github.com/articles/what-are-the-different-access-per=
+missions</a></p>
+
+<img src=3D"http://sgmail.githubmail.com/wf/open?upn=3D4117mrjs1wNnNAJO2zrg=
+MNf-2BezB05yJcfitmYjds6HwPLsHKi0QBNZw-2FIlP19rU2LKO0uwR12gtbTJODA0HaH-2BMFL=
+sr3S4uvcy6HSTNX8uK79nQd8-2F7NaMwg9ABdG5ovkpGQWUzmg8iA0Q83w9JztyGmAEfaxXYb1M=
+llanH85d0ir2Yi-2Fhzq7I1Lay7ICs1Bu1Kb-2BIeOKP-2Bq4r3QgVHjZEBNy1JNJpAADtLo1T1=
+HuW15CuN8UFv8TQd4ukb8-2FETrcV65t1IF0VcRgjhWKaEKHg-3D-3D" alt=3D"" width=3D"=
+1" height=3D"1" border=3D"0" style=3D"height:1px !important;width:1px !impo=
+rtant;border-width:0 !important;margin-top:0 !important;margin-bottom:0 !im=
+portant;margin-right:0 !important;margin-left:0 !important;padding-top:0 !i=
+mportant;padding-bottom:0 !important;padding-right:0 !important;padding-lef=
+t:0 !important;"/>
+</body></html>
+
+------------=_1438929018-1599-7--
